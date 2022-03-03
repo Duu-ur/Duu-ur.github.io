@@ -1,5 +1,6 @@
 # Sleek
 
+<<<<<<< HEAD
 [![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
 
 A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
@@ -191,3 +192,6 @@ The theme is setup just like a normal Jekyll site! Check out [file structure ove
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# add some things?
+>>>>>>> e1271e8ad4e023f786107d1cc8557d46cef3a55f
